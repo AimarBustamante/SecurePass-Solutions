@@ -1,8 +1,8 @@
 # 🚀 SecurePass Solutions
 
-![Mockup_Browser](public\images\mockups\mockup-browser.png)
-![Mockup_Laptop](public\images\mockups\mockup-laptop.png)
-![Mockup_Mobile](public\images\mockups\mockup-mobile.png)
+![Mockup_Browser](public/images\mockups/mockup-browser.png)
+![Mockup_Laptop](public/images/mockups/mockup-laptop.png)
+![Mockup_Mobile](public/images/mockups/mockup-mobile.png)
 
 ## 📖 Project Description
 SecurePass Solutions is a web application that simulates a website offering password management services. 
