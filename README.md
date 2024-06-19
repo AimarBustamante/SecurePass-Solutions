@@ -1,6 +1,6 @@
 # 🚀 SecurePass Solutions
 
-![Mockup_Browser](public/images\mockups/mockup-browser.png)
+![Mockup_Browser](public/images/mockups/mockup-browser.png)
 ![Mockup_Laptop](public/images/mockups/mockup-laptop.png)
 ![Mockup_Mobile](public/images/mockups/mockup-mobile.png)
 
