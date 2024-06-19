@@ -1,0 +1,21 @@
+[
+	{
+		"title": "TechCorp International",
+		"description": "Implemented a company-wide password management system, enhancing security protocols and ensuring seamless access for over 5,000 employees.",
+        "image": "/images/TechCorp-International.webp"
+	},
+	{
+		"title": "HealthGuard Services",
+		"description": "Provided customized two-factor authentication solutions for a healthcare provider, safeguarding sensitive patient information across multiple platforms.",
+        "image": "/images/HealthGuard-Services.webp"
+	},
+	{
+		"title": "EduNet Solutions",
+		"description": "Developed a secure password vault and generator for an educational institution, protecting student and faculty data from unauthorized access.",
+        "image": "/images/EduNet-Solutions.webp"
+	},	{
+		"title": "FinSecure Inc",
+		"description": "Conducted a comprehensive security audit for a financial firm, identifying and resolving critical vulnerabilities to fortify their digital infrastructure.",
+        "image": "/images/FinSecure-Inc.webp"
+	}
+]

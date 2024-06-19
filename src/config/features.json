@@ -1,0 +1,38 @@
+[
+	{
+		"title": "End-to-End Encryption",
+		"description": "Ensure your data is always secure with industry-leading end-to-end encryption."
+	},
+	{
+		"title": "Cross-Platform Sync",
+		"description": "Access your passwords and secure information from any device, anytime, anywhere."
+	},
+	{
+		"title": "Easy Sharing",
+		"description": "Securely share passwords and login information with trusted contacts."
+	},
+	{
+		"title": "Password Health Check",
+		"description": "Regularly check the strength and security of your passwords with our integrated health check tool."
+	},
+	{
+		"title": "Secure Notes",
+		"description": "Store sensitive information, like PINs and recovery keys, in encrypted secure notes."
+	},
+	{
+		"title": "Emergency Access",
+		"description": "Grant trusted contacts emergency access to your account in case of unforeseen circumstances."
+	},
+	{
+		"title": "Biometric Login",
+		"description": "Log in quickly and securely with fingerprint or facial recognition technology."
+	},
+	{
+		"title": "Dark Web Monitoring",
+		"description": "Receive alerts if your information appears on the dark web, allowing you to act quickly to protect your data."
+	},
+	{
+		"title": "24/7 Customer Support",
+		"description": "Get round-the-clock support from our dedicated team whenever you need it."
+	}
+]
